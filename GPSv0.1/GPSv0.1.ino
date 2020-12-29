@@ -7,7 +7,7 @@ int RXPin = 2;
 int TXPin = 3;
 String responce = "";
 double latitude, longitude;
-#define gpspin 7
+#define gpspin 8
 String Link = "";
 //int GPSBaud = 9600;
 
